@@ -7,10 +7,12 @@ void setup() {
     demiour = loadFont("forsaking.vlw");
   
 }
-//line 1
+
 void draw(){
   
 //transformation
+  
+  //right background
     pushMatrix();
      
       noStroke();
